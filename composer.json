@@ -1,0 +1,22 @@
+{
+  "name": "simple/soft-delete",
+  "description": "just a test demo for MrYup to use cpser",
+  "keywords": ["yii2","soft delete"],
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Bob",
+      "email": "lucian@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4",
+    "yiisoft/yii2": "2.0.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "SoftDelete\\": "src"
+    }
+  }
+}
