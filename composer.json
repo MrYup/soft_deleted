@@ -1,6 +1,6 @@
 {
   "name": "simple/soft-delete",
-  "description": "just a test demo for MrYup to use cpser",
+  "description": "simple soft delete,bases on Yii2 ActiveRecord",
   "keywords": ["yii2","soft delete"],
   "type": "library",
   "license": "MIT",
