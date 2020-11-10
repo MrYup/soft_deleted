@@ -1,5 +1,5 @@
 {
-  "name": "simple/soft-delete",
+  "name": "yiisoft/yii2-custom/soft-delete",
   "description": "simple soft delete,bases on Yii2 ActiveRecord",
   "keywords": ["yii2","soft delete"],
   "type": "library",
