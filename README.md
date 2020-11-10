@@ -10,12 +10,12 @@ Require yiisoft/yii2
 composer require simple/soft-delete
 ```
 
-#Notice
+# Notice
 make sure the table that needs soft-delete 
 has the column marks whether the row was deleted,
 generally named like `deleted_at`,`is_deleted`
 
-#Default setting
+# Default setting
 ```
     column name:is_delete
     sorft delete value:1
@@ -24,7 +24,7 @@ generally named like `deleted_at`,`is_deleted`
 ```
 
 
-#Usage 
+# Usage 
 ```php
 <?php
 use SoftDelete\SoftDelete;
